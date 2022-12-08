@@ -18,7 +18,10 @@ const user_list = ["Alan", "Bob", "Carol", "Dean", "Elin"]
 
 For each message, add a like button at the right end of the chat message, which on click should increase the count. Display the count next to the like button.
 
-![](assets/20221208_200816_team-chat-intro.gif)
+
+
+![](assets/20221208_203258_team-chat-intro.gif)
+
 
 ## (Optional: Attempt 1 or More) Stretch Goals
 
